@@ -86,16 +86,8 @@
 
 ---
 
-## ☕ 支持我的创作
-如果我的项目让你会心一笑，不妨请我喝杯咖啡或吃块小蛋糕🎂！  
-<div align="center">
-  <a href="[你的Ko-fi/Patreon链接]"><img src="https://img.shields.io/badge/Buy Me a Coffee-Support-FFDD00?style=for-the-badge&logo=ko-fi&logoColor=black" alt="Support Badge"/></a>
-</div>
-
----
 
 <div align="center">
   <h3>💫 感谢你的到访！</h3>
-  <p>欢迎探索我的代码宇宙，点个⭐支持我的项目，一起创造更多可能！</p>
   <img src="https://media.giphy.com/media/QLxRt3Amsv6LVaM7T9/giphy.gif" width="150" alt="Footer GIF"/>
 </div>
