@@ -56,7 +56,7 @@
 - 涉及HTML、CSS、JavaScript及现代框架（如Vue.js、React）的开发任务  
 - 提供代码审查和导师指导，助力我快速成长为专业前端开发者  
 - 支持远程或混合办公，灵活的工作模式是加分项！  
-📋 **我能带来**：  
+## 📋 **我能带来**：  
 - 扎实的前端开发基础，熟悉Vue.js、JavaScript和响应式设计  
 - 注重代码质量和用户体验，确保界面美观、性能优异  
 - 积极的学习态度和团队协作精神，乐于接受反馈并持续优化  
@@ -89,5 +89,5 @@
 
 <div align="center">
   <h3>💫 感谢你的到访！</h3>
-  <img src="https://media.giphy.com/media/QLxRt3Amsv6LVaM7T9/giphy.gif" width="150" alt="Footer GIF"/>
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXVvOXV1dHk3eDg4YWhwYnpldWR0c3RjbmppZ3J0MGVwbWJ5OXVvcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GkFAwLd8R55ZSfLNFC/giphy.gif" width="150" alt="Footer GIF"/>
 </div>
