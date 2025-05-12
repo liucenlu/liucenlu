@@ -67,6 +67,9 @@
 
 ## 📡 连接宇宙
 <div align="center">
+  <a href="https://censblog.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Contact-博客-0D6EAD?style=flat-square&logo=netlify&logoColor=white" alt="博客 Badge"/>
+  </a>
   <a href="https://liucenlu.github.io" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Website-FF7139?style=flat-square&logo=firefox-browser&logoColor=white" alt="Portfolio Badge"/>
   </a>
@@ -78,9 +81,6 @@
   </a>
   <a href="https://codepen.io/liucenlu" target="_blank">
     <img src="https://img.shields.io/badge/Open-CodePen-000?style=flat-square&logo=codepen&logoColor=white" alt="CodePen Badge"/>
-  </a>
-  <a href="https://im.qq.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Contact-QQ-0D6EAD?style=flat-square&logo=qq&logoColor=white" alt="QQ Badge"/>
   </a>
 </div>
 
